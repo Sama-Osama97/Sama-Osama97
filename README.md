@@ -1,0 +1,5 @@
+As a final-year Computer Science and Information Technology student majoring in Computer Networks and Cybersecurity, I have developed a strong foundation in network administration and security. 
+My academic journey has equipped me with practical skills in designing, maintaining, and securing network infrastructures, along with a deep understanding of cybersecurity protocols and threat mitigation techniques.
+In addition to my core focus on networks and security, I am familiar with software development principles and embedded systems, giving me a broader perspective on the interconnectedness of technology. 
+I am passionate about leveraging my knowledge to solve complex problems, ensure the security of digital environments, and contribute to innovative solutions in both network and software domains.
+I'm eager to connect with professionals and explore opportunities where I can apply my technical expertise and continue growing in the fields of network security, system administration, and cybersecurity.
